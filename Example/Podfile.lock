@@ -1,0 +1,16 @@
+PODS:
+  - TestCocoapodModuleMap (0.1.0)
+
+DEPENDENCIES:
+  - TestCocoapodModuleMap (from `../`)
+
+EXTERNAL SOURCES:
+  TestCocoapodModuleMap:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestCocoapodModuleMap: bfdd52d004b2fb74ace5456eca71ff0cc4561174
+
+PODFILE CHECKSUM: 0024d0d00f900f9da384b77fdc81efe5fbede0f1
+
+COCOAPODS: 1.10.1

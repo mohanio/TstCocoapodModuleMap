@@ -1,0 +1,7 @@
+# use_frameworks! Don't want to consume as frameworks
+
+platform :ios, '9.0'
+
+target 'TestCocoapodModuleMap_Example' do
+  pod 'TestCocoapodModuleMap', :path => '../'
+end
