@@ -22,7 +22,7 @@ pod 'TestCocoapodModuleMap'
 
 ## Author
 
-mohan, mohana.sundaram@xxxx.com
+mohan
 
 ## License
 
